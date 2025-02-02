@@ -3,3 +3,8 @@
 ``` HTML
  <p> Hello World </p>
 ```
+**Things to buy**
+- [x] Buy eggs
+- [x] Bake Bread
+- [x] Drink Milk
+- [ ] Tea
